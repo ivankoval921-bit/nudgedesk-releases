@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apk": "https://github.com/ivankoval921-bit/nudgedesk-releases/releases/download/smartnotes-v1.0.1/SmartNotesAI.apk",
+  "size": 18611076,
+  "notes": "• Умные заметки (SmartNotes AI) 1.0.1:\n• Разделены каналы обновлений (своя независимая ветка обновлений)\n• Новый ярлык (синий индиго, блокнот со стилусом и звездой ИИ)\n• Глубокий разбор видео YouTube с AI-скиллами блогеров и субтитрами\n• Экспорт в чистый Markdown (.md) и кнопка «Поделиться .MD»\n• Пошаговая инструкция для разрешения поверх окон на Xiaomi/HyperOS",
+  "date": "2026-11-02"
+}
